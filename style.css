@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+   
+.banner{
+    height: calc(100vh - 100px);
+    
+}
+.my-bg{
+    background-color: #FEEAE9;
+}
+.my-btn{
+  background-image:  linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+  color:white;
+  border-radius: 8px;
+  border:none;
+  padding:9px 25px;
+}
+.category img{
+    width:100px;
+}
+.category-1{
+    background-image: linear-gradient(180deg, rgb(226, 156, 76), rgb(238, 32, 32));
+}
+.category-2{
+    background-image: linear-gradient(180deg, rgb(219, 163, 193), rgb(158, 33, 118));
+}
+.category-3{
+    background-image: linear-gradient(180deg, rgb(159, 247, 239), rgb(83, 121, 226));
+}
+.subscribe{
+    height:300px;
+}
